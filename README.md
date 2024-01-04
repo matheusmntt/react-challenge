@@ -5,8 +5,6 @@
 - Não é permitido adicionar novos elementos HTML
 - Não é permitido usar refs
 
-### Tarefas:
-
 ### TODO
 
 - [x] Desabilite o botão de Login caso o e-mail esteja em branco OU a senha for menor que 6 dígitos. 
